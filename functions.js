@@ -40,3 +40,5 @@ for(let k = 2; k <= 5; k++)
 {
     timestable(k)
 }
+
+
