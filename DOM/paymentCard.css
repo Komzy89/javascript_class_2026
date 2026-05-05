@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+section{
+    border: solid black 2px;
+    height: 200px;
+    width: 400px;
+}
+
+
+#status{
+    display: flex;
+    justify-content: flex-end;
+    border: solid red;
+}
+
+#status p {
+    background-color: green;
+    width: max-content;
+}
+
+#payment{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90%;
+    border: solid green;
+    font-weight: bold;
+}

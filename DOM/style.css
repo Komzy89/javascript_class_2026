@@ -1,0 +1,12 @@
+div{
+    background-color: lightblue;
+    width: 200px;
+    height: 400px;
+    text-align: center;
+}
+
+.paragraphStyle {
+    border: solid black 2px;
+    border-radius: 1rem;
+    color: white;
+}
